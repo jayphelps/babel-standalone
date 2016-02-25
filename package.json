@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Daniel15/babel-standalone.git"
   },
+
   "dependencies": {
     "babel-core": "^6.4.5",
     "babel-plugin-check-es2015-constants": "^6.3.13",
