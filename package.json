@@ -2,7 +2,7 @@
   "name": "babel-standalone",
   "version": "6.4.5-dev",
   "description": "Standalone build of Babel for use in non-Node.js environments. Similar to the (now deprecacted) babel-browser",
-  "main": "lib/index.js",
+  "main": "babel.js",
   "scripts": {
     "build": "babel --out-dir lib src && gulp build",
     "test": "mocha"
